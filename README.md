@@ -1,9 +1,9 @@
 # Hi 👋, I'm Adithya
 
-<h3 align="center">Computer Science Engineering (AI & ML) Student | Backend Developer | Problem Solver</h3>
+<h3 align="center">Computer Science Engineering (AI & ML) Student | Backend Developer | Building Real-World Backend Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL;JWT+Authentication+%26+RBAC;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL;JWT+Authentication+%26+Role-Based+Access+Control;Building+InfinityBus;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,10 +11,10 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (AI & ML) at VIT-AP University
-* 💻 Interested in Backend Development
-* 🌱 Currently learning System Design and Advanced Backend Development
-* 🔐 Built Authentication Systems using JWT & RBAC
-* 🚌 Working on InfinityBus (Bus Management System)
+* 💻 Passionate about Backend Development
+* 🌱 Currently learning Backend Architecture, Databases and System Design
+* 🔐 Built Authentication & Authorization systems using JWT and RBAC
+* 🚌 Building **InfinityBus** – a Bus Management System using Node.js, Express.js and PostgreSQL
 * ⚡ Experience with ESP32 Embedded Systems
 
 ---
@@ -48,15 +48,22 @@
 
 ### 🚌 InfinityBus
 
-Bus Management System built using Node.js, Express.js and PostgreSQL.
+Backend Bus Management System featuring:
+
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Bus CRUD Operations
+* PostgreSQL Database
+* Prisma ORM
+* Express.js API Architecture
 
 ### 🔐 Authentication System
 
-JWT Authentication and Role-Based Access Control (RBAC).
+Authentication and Authorization system using JWT tokens and middleware-based access control.
 
 ### 🤖 ESP32 Bluetooth Control System
 
-Embedded system for wireless control using ESP32 and Bluetooth.
+Embedded system project for wireless device control using ESP32 and Bluetooth communication.
 
 ---
 
