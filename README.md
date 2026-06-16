@@ -1,6 +1,6 @@
 # Hi 👋, I'm Adithya
 
-<h3 align="center">Computer Science Engineering (AI & ML) Student | Backend Developer | Building Real-World Backend Systems</h3>
+<h3 align="center">Computer Science Engineering Student | Backend Developer | Building Real-World Backend Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL;JWT+Authentication+%26+Role-Based+Access+Control;Building+InfinityBus;Always+Learning+and+Improving" alt="Typing SVG" />
